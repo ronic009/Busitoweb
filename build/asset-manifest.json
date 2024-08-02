@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8af0142.css",
-    "main.js": "/static/js/main.f85b0074.js",
-    "static/media/logo.png": "/static/media/logo.79944f0e8fa2bd7139f6.png",
-    "index.html": "/index.html",
-    "main.e8af0142.css.map": "/static/css/main.e8af0142.css.map",
-    "main.f85b0074.js.map": "/static/js/main.f85b0074.js.map"
+    "main.css": "/Busitoweb/static/css/main.e8af0142.css",
+    "main.js": "/Busitoweb/static/js/main.e2c163f4.js",
+    "static/media/logo.png": "/Busitoweb/static/media/logo.79944f0e8fa2bd7139f6.png",
+    "index.html": "/Busitoweb/index.html",
+    "main.e8af0142.css.map": "/Busitoweb/static/css/main.e8af0142.css.map",
+    "main.e2c163f4.js.map": "/Busitoweb/static/js/main.e2c163f4.js.map"
   },
   "entrypoints": [
     "static/css/main.e8af0142.css",
-    "static/js/main.f85b0074.js"
+    "static/js/main.e2c163f4.js"
   ]
 }
