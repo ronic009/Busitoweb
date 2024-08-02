@@ -1,7 +1,7 @@
 {
   "name": "theparty-wagon",
   "version": "1.0.0",
-  "homepage": "https://ronic009.github.io/Busitoweb",
+  "homepage": "https://partywagoni.com/",
   "main": "api.js",
   "scripts": {
     "start": "react-scripts start",
